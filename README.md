@@ -3,7 +3,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) .Net Core Eğitiminde oluştur
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-`code
 
-`
+``bash
+
+git clone https://github.com/asametvural/kodluyoruzilkrepo.git
+``
  
